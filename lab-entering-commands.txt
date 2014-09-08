@@ -316,7 +316,8 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
-
+ent-v321-007:~ student$ foo
+-bash: foo: command not found
 
 
 ==========
@@ -326,3 +327,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+ls is the command the flag is -a the argument is Desktop and the prompt is $
